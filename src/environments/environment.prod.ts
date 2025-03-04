@@ -3,3 +3,4 @@ export const environment = {
   graphqlUri: 'http://54.157.222.121:8085/graphql'
 
 };
+
